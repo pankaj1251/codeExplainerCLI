@@ -52,3 +52,10 @@ Upon execution, the app will retrieve the code from the specified file and gener
 
 - **Invalid API Key:** Double-check that the API key is accurately copied and pasted into the `index.js` file.
 - **File Not Found:** Verify the file path provided in the command to ensure the file exists in the specified location.
+
+
+
+
+
+https://github.com/pankaj1251/codeExplainerCLI/assets/62792492/05410d24-85f9-402f-8c97-398d77160478
+
