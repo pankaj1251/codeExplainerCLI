@@ -5,10 +5,8 @@ Ensure you have the following installed:
 - Node.js (minimum version: 12.x)
 - npm (Node Package Manager)
 
-## Step 2: Obtain OpenAI API Key
-### Sign Up/Login to OpenAI:
-- If you don't have an account, [sign up for OpenAI here](https://openai.com).
-- If you have an account, [log in to the OpenAI platform](https://platform.openai.com).
+## Step 2: Obtain Google PaLM API Key
+- Visit here to get your API key [here](https://developers.generativeai.google/products/palm)
 
 ### Get Your API Key:
 1. Once logged in, navigate to your dashboard or API settings to find your API key.
@@ -19,15 +17,15 @@ Ensure you have the following installed:
 - Clone the repository or create a new directory for the CLI app.
 - Navigate to the app directory in your terminal.
 
-### Install Dependencies:
+### Installing Dependencies
 ```bash
-npm install fs openai
+npm install 
 ```
 
-# Adding Your OpenAI API Key
+### Adding Your Google PaLM API Key
 
 1. Open the `index.js` file in your editor.
-2. Replace `'YOUR_OPENAI_API_KEY'` with your actual OpenAI API key.
+2. Replace `'YOUR_API_KEY'` with your actual PaLM API key.
 
 ## Step 4: Running the CLI App
 
@@ -41,7 +39,7 @@ Replace path/to/your/file.js with your file path
  
 ### Viewing Code Explanation
 
-Upon execution, the app will retrieve the code from the specified file and generate an explanation using the OpenAI API. The explanation will be displayed in the terminal.
+Upon execution, the app will retrieve the code from the specified file and generate an explanation using the Google PaLM API. The explanation will be displayed in the terminal.
 
 #### Additional Notes
 
